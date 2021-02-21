@@ -1,19 +1,21 @@
 > ![](media/image1.png)
 >
-> **Contents**
+**Contents**
+===========================================
+
 
 [A Brief Overview of Artificial Intelligence
 2](#a-brief-overview-of-artificial-intelligence)
 
-[Portfolio Management 3](#portfolio-management)
+[Portfolio Management](#portfolio-management)
 
-[Algorithmic Trading 7](#algorithmic-trading)
+[Algorithmic Trading](#algorithmic-trading)
 
-[Fraud Detection 11](#fraud-detection)
+[Fraud Detection](#fraud-detection)
 
-Predictive Analytics for Identifying High-risk Customer Behaviour 14
+[Predictive Analytics for Identifying High-risk Customer Behaviour] (#Predictive Analytics for Identifying High-risk Customer Behaviour)
 
-[AI powered Insurance 17](#ai-powered-insurance)
+[AI powered Insurance](#ai-powered-insurance)
 
 > I still remember during USA Financial economic crisis in 2008, John
 > Paulson made billions of dollars by betting millions against the

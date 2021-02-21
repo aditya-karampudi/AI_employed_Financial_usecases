@@ -11,8 +11,6 @@
 
 [Fraud Detection 11](#fraud-detection)
 
-Predictive Analytics for Identifying High-risk Customer Behaviour 14
-
 [AI powered Insurance 17](#ai-powered-insurance)
 
 > I still remember during USA Financial economic crisis in 2008, John
@@ -109,8 +107,7 @@ Portfolio Management:
 > demographics and preferences, and suggesting relevant products to
 > customers.
 >
-> ![](media/image3.jpeg){width="5.8622090988626425in"
-> height="3.2708333333333335in"}
+> ![](media/image3.jpeg) 
 >
 > The framework should take in data from various sources like social
 > media and blogs, and feed it through an engine with social analytics
@@ -208,18 +205,6 @@ Conclusion
 > such as AI and machine learning will help banks unlock the value of
 > data to drive informed decision making, which is imperative to
 > business growth.
->
-> References:
-
--   [[https://medium.com/swlh/ai-for-portfolio-management-from-markowitz-to-]{.underline}](https://medium.com/swlh/ai-for-portfolio-management-from-markowitz-to-reinforcement-learning-cffedcbba566)
-    [[reinforcement-learning-cffedcbba566]{.underline}](https://medium.com/swlh/ai-for-portfolio-management-from-markowitz-to-reinforcement-learning-cffedcbba566)
-
--   [[https://www.tcs.com/content/dam/tcs/pdf/Industries/Banking%20and%20Financial]{.underline}](https://www.tcs.com/content/dam/tcs/pdf/Industries/Banking%20and%20Financial%20Services/analytics-artificial-intelligence-machine-learning-0817-1.pdf)
-
-> [[%20Services/analytics-artificial-intelligence-machine-learning-0817-1.pdf]{.underline}](https://www.tcs.com/content/dam/tcs/pdf/Industries/Banking%20and%20Financial%20Services/analytics-artificial-intelligence-machine-learning-0817-1.pdf)
-
--   [[https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-]{.underline}](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/fsi-artificial-intelligence-investment-mgmt.pdf)
-    [[Services/fsi-artificial-intelligence-investment-mgmt.pdf]{.underline}](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/fsi-artificial-intelligence-investment-mgmt.pdf)
 
 Algorithmic Trading
 ===================
@@ -368,16 +353,6 @@ Challenges
 > This case study pinpoints two key problems with machine learning:
 > finding sufficient high- quality data to feed and train systems, and
 > the scale of human effort required to run systems.
->
-> References:
->
-> [[https://blog.quantinsti.com/growth-future-algorithmic-trading/]{.underline}](https://blog.quantinsti.com/growth-future-algorithmic-trading/)
-> [[https://www.turing.ac.uk/sites/default/files/2019-04/artificial\_intelligence\_in\_finance\_-]{.underline}](https://www.turing.ac.uk/sites/default/files/2019-04/artificial_intelligence_in_finance_-_turing_report_1.pdf)
->
-> [[\_turing\_report\_1.pdf]{.underline}](https://www.turing.ac.uk/sites/default/files/2019-04/artificial_intelligence_in_finance_-_turing_report_1.pdf)
->
-> [[https://a-teaminsight.com/potential-and-pitfalls-of-artificial-intelligence-in-the-trading-]{.underline}](https://a-teaminsight.com/potential-and-pitfalls-of-artificial-intelligence-in-the-trading-environment/?brand=ati)
-> [[environment/?brand=at]{.underline}i](https://a-teaminsight.com/potential-and-pitfalls-of-artificial-intelligence-in-the-trading-environment/?brand=ati)
 
 Fraud Detection
 ===============
@@ -472,18 +447,6 @@ height="3.0416666666666665in"}
 > has the potential to improve bank fraud detection with data analytics
 > and help nearly every industry.
 >
-> References:
-
--   [[https://igniteoutsourcing.com/fintech/machine-learning-in-finance/]{.underline}](https://igniteoutsourcing.com/fintech/machine-learning-in-finance/)
-
--   [[https://algorithmxlab.com/blog/applications-machine-learning-]{.underline}](https://algorithmxlab.com/blog/applications-machine-learning-finance/#Portfolio_Management_Robo-Advisors)
-    [[finance/\#Portfolio\_Management\_Robo-Advisors]{.underline}](https://algorithmxlab.com/blog/applications-machine-learning-finance/#Portfolio_Management_Robo-Advisors)
-
--   [[https://towardsdatascience.com/machine-learning-in-finance-why-what-how-]{.underline}](https://towardsdatascience.com/machine-learning-in-finance-why-what-how-d524a2357b56)
-    [[d524a2357b56]{.underline}](https://towardsdatascience.com/machine-learning-in-finance-why-what-how-d524a2357b56)
-
--   [[https://emerj.com/ai-sector-overviews/machine-learning-in-finance/]{.underline}](https://emerj.com/ai-sector-overviews/machine-learning-in-finance/)
-
 > Predictive Analytics for Identifying High-risk Customer Behaviour
 > Although managers can be very confident when granting a loan,
 > sometimes the borrower cannot repay the amount. This issue can be
@@ -590,16 +553,6 @@ height="3.0416666666666665in"}
 > customer segment and helps reduce consumer bad debt write-offs and
 > drive several significant business benefits, by improving customer
 > satisfaction levels.
->
-> References:
-
--   [[https://www.forbes.com/sites/forbesfinancecouncil/2018/10/05/what-role-can-machine-]{.underline}](https://www.forbes.com/sites/forbesfinancecouncil/2018/10/05/what-role-can-machine-learning-and-ai-play-in-banking-and-lending/#673107df4122)
-    [[learning-and-ai-play-in-banking-and-lending/\#673107df4122]{.underline}](https://www.forbes.com/sites/forbesfinancecouncil/2018/10/05/what-role-can-machine-learning-and-ai-play-in-banking-and-lending/#673107df4122)
-
--   [[https://www.wns.com/Portals/0/Documents/Whitepapers/WNS-WP-how-a-predictive-]{.underline}](https://www.wns.com/Portals/0/Documents/Whitepapers/WNS-WP-how-a-predictive-analytics-based-framework-helps-reduce-bad-debts-in-utilities.pdf)
-    [[analytics-based-framework-helps-reduce-bad-debts-in-utilities.pdf]{.underline}](https://www.wns.com/Portals/0/Documents/Whitepapers/WNS-WP-how-a-predictive-analytics-based-framework-helps-reduce-bad-debts-in-utilities.pdf)
-
--   [[https://lending-times.com/2019/07/23/how-machine-learning-will-transform-p2p-lending/]{.underline}](https://lending-times.com/2019/07/23/how-machine-learning-will-transform-p2p-lending/)
 
 AI Powered Insurance
 ====================
@@ -700,9 +653,38 @@ Auto Insurance
 > 48 seconds.
 >
 > References:
->
-> [[https://marutitech.com/ai-in-the-insurance-industry/]{.underline}](https://marutitech.com/ai-in-the-insurance-industry/)
-> [[https://www.pymnts.com/disbursements/2019/how-ai-ml-are-revitalizing-the-insurance-claims-]{.underline}](https://www.pymnts.com/disbursements/2019/how-ai-ml-are-revitalizing-the-insurance-claims-process/)
-> [[process/]{.underline}](https://www.pymnts.com/disbursements/2019/how-ai-ml-are-revitalizing-the-insurance-claims-process/)
->
-> [[https://emerj.com/ai-sector-overviews/artificial-intelligence-in-insurance-trends/]{.underline}](https://emerj.com/ai-sector-overviews/artificial-intelligence-in-insurance-trends/)
+
+-   [[https://marutitech.com/ai-in-the-insurance-industry/]{.underline}](https://marutitech.com/ai-in-the-insurance-industry/)
+    [[https://www.pymnts.com/disbursements/2019/how-ai-ml-are-revitalizing-the-insurance-claims-]{.underline}](https://www.pymnts.com/disbursements/2019/how-ai-ml-are-revitalizing-the-insurance-claims-process/)
+    [[process/]{.underline}](https://www.pymnts.com/disbursements/2019/how-ai-ml-are-revitalizing-the-insurance-claims-process/)
+
+-   [[https://emerj.com/ai-sector-overviews/artificial-intelligence-in-insurance-trends/]{.underline}](https://emerj.com/ai-sector-overviews/artificial-intelligence-in-insurance-trends/)
+
+-   [[https://medium.com/swlh/ai-for-portfolio-management-from-markowitz-to-]{.underline}](https://medium.com/swlh/ai-for-portfolio-management-from-markowitz-to-reinforcement-learning-cffedcbba566)
+    [[reinforcement-learning-cffedcbba566]{.underline}](https://medium.com/swlh/ai-for-portfolio-management-from-markowitz-to-reinforcement-learning-cffedcbba566)
+
+-   <https://www.tcs.com/content/dam/tcs/pdf/Industries/Banking%20and%20Financial>[[%20Services/analytics-artificial-intelligence-machine-learning-0817-1.pdf]{.underline}](https://www.tcs.com/content/dam/tcs/pdf/Industries/Banking%20and%20Financial%20Services/analytics-artificial-intelligence-machine-learning-0817-1.pdf)
+
+-   [[https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-]{.underline}](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/fsi-artificial-intelligence-investment-mgmt.pdf)
+    [[Services/fsi-artificial-intelligence-investment-mgmt.pdf]{.underline}](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/fsi-artificial-intelligence-investment-mgmt.pdf)
+
+-   <https://www.forbes.com/sites/forbesfinancecouncil/2018/10/05/what-role-can-machine->
+    [[learning-and-ai-play-in-banking-and-lending/\#673107df4122]{.underline}](https://www.forbes.com/sites/forbesfinancecouncil/2018/10/05/what-role-can-machine-learning-and-ai-play-in-banking-and-lending/#673107df4122)
+
+-   <https://www.wns.com/Portals/0/Documents/Whitepapers/WNS-WP-how-a-predictive->
+    [[analytics-based-framework-helps-reduce-bad-debts-in-utilities.pdf]{.underline}](https://www.wns.com/Portals/0/Documents/Whitepapers/WNS-WP-how-a-predictive-analytics-based-framework-helps-reduce-bad-debts-in-utilities.pdf)
+
+-   <https://lending-times.com/2019/07/23/how-machine-learning-will-transform-p2p-lending/>
+
+-   <https://igniteoutsourcing.com/fintech/machine-learning-in-finance/>
+
+-   [[https://algorithmxlab.com/blog/applications-machine-learning-]{.underline}](https://algorithmxlab.com/blog/applications-machine-learning-finance/#Portfolio_Management_Robo-Advisors)
+    [[finance/\#Portfolio\_Management\_Robo-Advisors]{.underline}](https://algorithmxlab.com/blog/applications-machine-learning-finance/#Portfolio_Management_Robo-Advisors)
+
+-   <https://towardsdatascience.com/machine-learning-in-finance-why-what-how->
+    [d524a2357b56]{.underline}<https://emerj.com/ai-sector-overviews/machine-learning-in-finance/>
+
+-   [[https://blog.quantinsti.com/growth-future-algorithmic-trading/]{.underline}](https://blog.quantinsti.com/growth-future-algorithmic-trading/)
+
+-   [[https://a-teaminsight.com/potential-and-pitfalls-of-artificial-intelligence-in-the-trading-]{.underline}](https://a-teaminsight.com/potential-and-pitfalls-of-artificial-intelligence-in-the-trading-environment/?brand=ati)
+    [[environment/?brand=at]{.underline}i](https://a-teaminsight.com/potential-and-pitfalls-of-artificial-intelligence-in-the-trading-environment/?brand=ati)

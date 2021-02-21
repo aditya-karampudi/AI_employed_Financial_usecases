@@ -113,7 +113,7 @@ Portfolio Management:
 > demographics and preferences, and suggesting relevant products to
 > customers.
 
-![](media/image3.png) 
+![](media/image2.png) 
 
 > The framework should take in data from various sources like social
 > media and blogs, and feed it through an engine with social analytics
@@ -131,7 +131,7 @@ Portfolio Management:
 > reports for suitability; and unstructured data processing including
 > real time events capture, NLP, and sentiment analysis (see Figure 2).
 
-![](media/image4.png)
+![](media/image3.png)
 
 > The framework should include a customizable dashboard to enable the
 > portfolio manager to make smart decisions. The dashboard should allow
@@ -216,7 +216,7 @@ Algorithmic Trading
 
 > This is the picture of stock trading in 1980 vs Today
 
-![](media/image5.png)
+![](media/image4.png)
  
 > Everything got automated and the Algorithms used for stock purchasing
 > are powered by Machine Learning.
@@ -228,13 +228,13 @@ Algorithmic Trading
 > trading revolution owing to its evolution and newer technologies
 > becoming predominant with every passing day.
 
-![](media/image6.png) 
+![](media/image5.png) 
 
 > **Artificial Intelligence** (A.I.) might be able to trade in and out
 > without any repercussions by itself as it would drive improvements for
 > trading strategies.
 
-![](media/image7.png)
+![](media/image6.png)
 
 > The future systems could study all the historical data that we have
 > archived over the course of the entire trading history, analyze it
@@ -379,7 +379,7 @@ Fraud Detection
 > fraudulent behavior, ML algorithms determine the most stealthy
 > fraudulent patterns and remember them forever.
 
-![](media/image8.png) 
+![](media/image7.png) 
 
 > Currently, businesses work on fraud detection systems that incorporate
 > machine learning and artificial intelligence. Using modern fraud
@@ -420,7 +420,7 @@ Fraud Detection
 >
 > ability to identify and flag fraudulent activity in real-time.
 
-![](media/image9.png)
+![](media/image8.png)
  
 > As well as picking up known patterns, [machine learning is able to go
 > a step further and
@@ -430,7 +430,7 @@ Fraud Detection
 > to uncover previously unknown patterns, or identify new tactics that
 > might be employed by fraudsters.
 
-![](media/image10.png) 
+![](media/image9.png) 
 
 > Businesses all over the world have already started using data science
 > to prevent financial fraud. Machine learning is currently the most
@@ -479,7 +479,7 @@ Fraud Detection
 > information, such as, customer meter settings, usage patterns, payment
 > history, and complaints and communication.
 
-![](media/image11.png)
+![](media/image10.png)
  
 > Customers, who find it difficult to pay their utility dues, usually
 > request for negotiation of payment terms and credit extensions from
@@ -518,7 +518,7 @@ Fraud Detection
 > matrix (as shown in fig. 4) to decide on the next steps in the
 > collections strategy.
 
-![](media/image12.png)
+![](media/image11.png)
  
 > This novel approach in segmentation on the basis of the customer\'s
 > propensity to pay back the debt provides new insight for the debt
@@ -616,7 +616,7 @@ AI Powered Insurance
     understand and answer the bulk of customer queries over email, chat
     and phone calls. This can free up
 
-![](media/image13.png)
+![](media/image12.png)
 
 > height="3.635in"}significant time and resources for insurers, which
 > they can deploy towards more profitable activities.
